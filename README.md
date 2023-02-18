@@ -1,4 +1,5 @@
-class Attributes(Tekky):
+```
+class Attributes(chelvis):
 	def __init__(self) -> None:
 	    pass
 	
@@ -27,3 +28,4 @@ class Attributes(Tekky):
 		environnement = ['vscode', 'pycharm']
 		
 		return langs, specialities, environnement
+```
