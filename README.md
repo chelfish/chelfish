@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **go, python**
 
-- 📫 How to reach me **chelvis#0073**
+- 📫 How to reach me **chelvis#5530**
 
 - 📄 Know about my experiences [https://chelvis.me](https://chelvis.me)
 
