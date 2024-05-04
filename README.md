@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm chelvis</h1>
-<h3 align="center">A backend developer from Netherlands</h3>
+<h3 align="center">x</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelfish&label=Profile%20views&color=0e75b6&style=flat" alt="chelfish" /> </p>
 
-- 🌱 I’m currently learning **reverse engineering**
+- 🌱 I’m currently learning **x**
 
-- 💬 Ask me about **go, python**
+- 💬 Ask me about **x**
 
-- 📫 How to reach me **chelvis#5530**
+- 📫 How to reach me **x**
 
-- 📄 Know about my experiences [https://chelvis.me](https://chelvis.me)
+- 📄 Know about my experiences **x**
 
-- ⚡ Fun fact **i am a skid**
+- ⚡ Fun fact **x**
 
 <p align="left">
 </p>
